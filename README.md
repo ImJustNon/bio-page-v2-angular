@@ -1,4 +1,4 @@
-<h1>Bio Page V.2 (Writed with AngularJS and TailwindCSS) 😎😋😊</h1>
+<h1>🤓 Bio Page V.2 (Writed with AngularJS and TailwindCSS) 😎😋😊</h1>
 
 
 <br /><br /><br />
