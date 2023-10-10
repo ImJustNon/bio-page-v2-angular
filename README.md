@@ -1,4 +1,13 @@
-# AngularApp
+<h1>Bio Page V.2 (Writed with AngularJS and TailwindCSS) 😎😋😊</h1>
+
+
+<br /><br /><br />
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
